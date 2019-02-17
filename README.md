@@ -1,4 +1,4 @@
-# demonstration
+# gzip_extractor.py
 Tässä on työnäyte ohjelmointi taidoistani
 
 # käyttöohjeet
